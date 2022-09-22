@@ -5,8 +5,8 @@
   I want to learn some kowledge about writing codes and the method of use Unity and UE to create my games.    
   I want get some resource of professional equipment and more chance to create some splendid works with classmates.
   ![image name](https://sukiui.com/i/2022/09/20/3x03g.jpg)
+# Bubble Sort
 Begin  
-#Bubble Sort  
 #include<stdio.h>  
 int main()  
 {  
